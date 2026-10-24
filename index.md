@@ -25,3 +25,7 @@ Growth Marketing Jobs is built as a narrower index for people who specifically w
 The site pulls roles from public company job boards and organizes them into a cleaner growth-marketing-focused browsing experience.
 
 The goal is to make relevant roles easier to find, compare, and revisit as new jobs are published.
+
+## Related projects
+
+[Projects home](https://fiz-is.github.io/) · [Titleless](https://fiz-is.github.io/titleless/)
